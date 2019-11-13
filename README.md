@@ -21,7 +21,8 @@ Developed for a gas concentration sensor(MQ2) to get the ppm values of carbon mo
 5. Can view historical data of the 2 gases fetched from the database.
 
 ### Scripts
-'helpers.py' - For offline plotting pf the 2 gases
-'models.py' - For the database structure
-'arduino.py' - Driver code
-'script2'.py' - For taking 25 values from air and store in database
+
+1. `helpers.py`- For offline plotting of the 2 gases
+2. `models.py` - For the database structure
+3. `arduino.py` - Driver code
+4. `script2.py` - For taking 25 values from air and store in database
